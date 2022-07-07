@@ -5,6 +5,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "build": "tsc",
     "start": "nodemon src/index.ts",
     "stop": "nodemon src/index.stop.js"
   },
